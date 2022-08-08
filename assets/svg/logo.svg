@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2101.53,-6628.91)">
+        <g id="Partial-Logo-Monotone" serif:id="Partial Logo Monotone" transform="matrix(1,0,0,1,1.5336,6628.91)">
+            <rect x="2100" y="0" width="2000" height="2000" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,2100,-2.27374e-13)">
+                <g>
+                    <g>
+                        <g transform="matrix(1.29864,0,0,1.29864,-174.544,-0.317886)">
+                            <g transform="matrix(3.93756,0,0,3.93756,-1061.19,-1078.63)">
+                                <text x="350.449px" y="467.266px" style="font-family:'Poppins-Medium', 'Poppins';font-weight:500;font-size:144px;">B<tspan x="430.081px 507.841px 550.321px " y="467.266px 467.266px 467.266px ">eta</tspan></text>
+                            </g>
+                            <g transform="matrix(3.93756,0,0,3.93756,-1061.19,-671.61)">
+                                <text x="350.449px" y="467.266px" style="font-family:'Poppins-Medium', 'Poppins';font-weight:500;font-size:144px;">B<tspan x="430.081px 516.625px " y="467.266px 467.266px ">ar</tspan></text>
+                            </g>
+                        </g>
+                        <g transform="matrix(6.28682,0,0,6.28682,-1076.67,478.048)">
+                            <path d="M387.869,99.788L408.605,99.788L441.725,132.476L408.605,165.164L387.869,165.164L421.133,132.476L387.869,99.788Z" style="fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
