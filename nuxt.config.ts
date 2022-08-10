@@ -23,5 +23,4 @@ export default defineNuxtConfig({
         download: true,
         display: 'auto',
     },
-    target: "static"
 })
