@@ -5,6 +5,7 @@ WORKDIR /usr/src/nuxt-app
 COPY . .
 
 RUN yarn cache clean --force
+RUN yarn install
 RUN yarn run build
 
 ENV NUXT_HOST=0.0.0.0
